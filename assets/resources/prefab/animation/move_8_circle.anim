@@ -1,0 +1,415 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "move_8_circle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Circle_1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -23
+            },
+            {
+              "frame": 2.5,
+              "value": 43
+            },
+            {
+              "frame": 5,
+              "value": -18
+            }
+          ]
+        }
+      },
+      "Circle_2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 18
+            },
+            {
+              "frame": 2.5,
+              "value": -46
+            },
+            {
+              "frame": 5,
+              "value": 18
+            }
+          ]
+        }
+      },
+      "Circle_3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -74.4
+            },
+            {
+              "frame": 1,
+              "value": -27
+            },
+            {
+              "frame": 2,
+              "value": 30
+            },
+            {
+              "frame": 3,
+              "value": 75
+            },
+            {
+              "frame": 4,
+              "value": 23
+            },
+            {
+              "frame": 5,
+              "value": -74.4
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -52
+            },
+            {
+              "frame": 1,
+              "value": -82
+            },
+            {
+              "frame": 2,
+              "value": -80
+            },
+            {
+              "frame": 3,
+              "value": -47
+            },
+            {
+              "frame": 4,
+              "value": -80
+            },
+            {
+              "frame": 5,
+              "value": -52
+            }
+          ]
+        }
+      },
+      "Circle_4": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -93.1
+            },
+            {
+              "frame": 1,
+              "value": -55
+            },
+            {
+              "frame": 2,
+              "value": 35
+            },
+            {
+              "frame": 3,
+              "value": 96
+            },
+            {
+              "frame": 4,
+              "value": 32
+            },
+            {
+              "frame": 5,
+              "value": -93.1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -91.3
+            },
+            {
+              "frame": 1,
+              "value": -163
+            },
+            {
+              "frame": 2,
+              "value": -158
+            },
+            {
+              "frame": 3,
+              "value": -89
+            },
+            {
+              "frame": 4,
+              "value": -159
+            },
+            {
+              "frame": 5,
+              "value": -91.3
+            }
+          ]
+        }
+      },
+      "Circle_5": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -73.1
+            },
+            {
+              "frame": 1,
+              "value": -107
+            },
+            {
+              "frame": 2,
+              "value": 27
+            },
+            {
+              "frame": 3,
+              "value": 64
+            },
+            {
+              "frame": 4,
+              "value": -13
+            },
+            {
+              "frame": 5,
+              "value": -73.1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -124.2
+            },
+            {
+              "frame": 1,
+              "value": -234
+            },
+            {
+              "frame": 2,
+              "value": -235
+            },
+            {
+              "frame": 3,
+              "value": -122
+            },
+            {
+              "frame": 4,
+              "value": -230
+            },
+            {
+              "frame": 5,
+              "value": -124.2
+            }
+          ]
+        }
+      },
+      "Circle_6": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 75.2
+            },
+            {
+              "frame": 1,
+              "value": 28
+            },
+            {
+              "frame": 2,
+              "value": -28
+            },
+            {
+              "frame": 3,
+              "value": -73
+            },
+            {
+              "frame": 4,
+              "value": -20
+            },
+            {
+              "frame": 5,
+              "value": 75.2
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -48.6
+            },
+            {
+              "frame": 1,
+              "value": -80
+            },
+            {
+              "frame": 2,
+              "value": -78
+            },
+            {
+              "frame": 3,
+              "value": -52
+            },
+            {
+              "frame": 4,
+              "value": -82
+            },
+            {
+              "frame": 5,
+              "value": -48.6
+            }
+          ]
+        }
+      },
+      "Circle_7": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 97.1
+            },
+            {
+              "frame": 1,
+              "value": 61
+            },
+            {
+              "frame": 2,
+              "value": -32
+            },
+            {
+              "frame": 3,
+              "value": -84
+            },
+            {
+              "frame": 4,
+              "value": -39
+            },
+            {
+              "frame": 5,
+              "value": 97.1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -89.3
+            },
+            {
+              "frame": 1,
+              "value": -157
+            },
+            {
+              "frame": 2,
+              "value": -156
+            },
+            {
+              "frame": 3,
+              "value": -94
+            },
+            {
+              "frame": 4,
+              "value": -161
+            },
+            {
+              "frame": 5,
+              "value": -89.3
+            }
+          ]
+        }
+      },
+      "Circle_8": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 65.1
+            },
+            {
+              "frame": 1,
+              "value": 113
+            },
+            {
+              "frame": 2,
+              "value": -32
+            },
+            {
+              "frame": 3,
+              "value": -50
+            },
+            {
+              "frame": 4,
+              "value": 23
+            },
+            {
+              "frame": 5,
+              "value": 65.1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -121.7
+            },
+            {
+              "frame": 1,
+              "value": -233
+            },
+            {
+              "frame": 2,
+              "value": -234
+            },
+            {
+              "frame": 3,
+              "value": -125
+            },
+            {
+              "frame": 4,
+              "value": -228
+            },
+            {
+              "frame": 5,
+              "value": -121.7
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -330
+        },
+        {
+          "frame": 1,
+          "value": -218
+        },
+        {
+          "frame": 2,
+          "value": -215
+        },
+        {
+          "frame": 3,
+          "value": -332
+        },
+        {
+          "frame": 4,
+          "value": -227
+        },
+        {
+          "frame": 5,
+          "value": -330
+        }
+      ]
+    }
+  },
+  "events": []
+}

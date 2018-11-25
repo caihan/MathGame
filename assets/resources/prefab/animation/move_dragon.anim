@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "move_dragon",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Circle_1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -35
+            },
+            {
+              "frame": 0.5,
+              "value": -72.5
+            },
+            {
+              "frame": 1,
+              "value": -85.4
+            },
+            {
+              "frame": 1.5,
+              "value": -75.5
+            },
+            {
+              "frame": 2,
+              "value": -35
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 41.5
+            },
+            {
+              "frame": 1,
+              "value": -2.5
+            },
+            {
+              "frame": 1.5,
+              "value": -43.4
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Circle_2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -70
+            },
+            {
+              "frame": 0.5,
+              "value": -122.4
+            },
+            {
+              "frame": 1,
+              "value": -146.7
+            },
+            {
+              "frame": 1.5,
+              "value": -152.3
+            },
+            {
+              "frame": 2,
+              "value": -70
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -18.7
+            },
+            {
+              "frame": 1,
+              "value": 47.5
+            },
+            {
+              "frame": 1.5,
+              "value": -64.2
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Circle_3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -105
+            },
+            {
+              "frame": 0.5,
+              "value": -189.9
+            },
+            {
+              "frame": 1,
+              "value": -223.5
+            },
+            {
+              "frame": 1.5,
+              "value": -220.5
+            },
+            {
+              "frame": 2,
+              "value": -105
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -64.2
+            },
+            {
+              "frame": 1,
+              "value": 70.1
+            },
+            {
+              "frame": 1.5,
+              "value": -103.7
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Circle_4": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -140
+            },
+            {
+              "frame": 0.5,
+              "value": -270.3
+            },
+            {
+              "frame": 1,
+              "value": -302.9
+            },
+            {
+              "frame": 1.5,
+              "value": -297
+            },
+            {
+              "frame": 2,
+              "value": -140
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -47.4
+            },
+            {
+              "frame": 1,
+              "value": 53.3
+            },
+            {
+              "frame": 1.5,
+              "value": -127.4
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

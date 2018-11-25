@@ -1,0 +1,251 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "move_circle_out_in",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Circle_1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": -2
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 32.3
+            },
+            {
+              "frame": 2.5,
+              "value": 124
+            },
+            {
+              "frame": 5,
+              "value": 32.3
+            }
+          ]
+        }
+      },
+      "Circle_2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -33
+            },
+            {
+              "frame": 2.5,
+              "value": -98
+            },
+            {
+              "frame": 5,
+              "value": -33
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 14
+            },
+            {
+              "frame": 2.5,
+              "value": 74
+            },
+            {
+              "frame": 5,
+              "value": 14
+            }
+          ]
+        }
+      },
+      "Circle_3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -34
+            },
+            {
+              "frame": 2.5,
+              "value": -111
+            },
+            {
+              "frame": 5,
+              "value": -34
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -20
+            },
+            {
+              "frame": 2.5,
+              "value": -32
+            },
+            {
+              "frame": 5,
+              "value": -20
+            }
+          ]
+        }
+      },
+      "Circle_4": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -12
+            },
+            {
+              "frame": 2.5,
+              "value": -48
+            },
+            {
+              "frame": 5,
+              "value": -12
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -40
+            },
+            {
+              "frame": 2.5,
+              "value": -115
+            },
+            {
+              "frame": 5,
+              "value": -40
+            }
+          ]
+        }
+      },
+      "Circle_5": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 25.7
+            },
+            {
+              "frame": 2.5,
+              "value": 58
+            },
+            {
+              "frame": 5,
+              "value": 25.7
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -37.3
+            },
+            {
+              "frame": 2.5,
+              "value": -113
+            },
+            {
+              "frame": 5,
+              "value": -37.3
+            }
+          ]
+        }
+      },
+      "Circle_6": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -14
+            },
+            {
+              "frame": 2.5,
+              "value": -25
+            },
+            {
+              "frame": 5,
+              "value": -14
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 43.3
+            },
+            {
+              "frame": 2.5,
+              "value": 117
+            },
+            {
+              "frame": 5,
+              "value": 43.3
+            }
+          ]
+        }
+      },
+      "Circle_7": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 32
+            },
+            {
+              "frame": 2.5,
+              "value": 96
+            },
+            {
+              "frame": 5,
+              "value": 32
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 20
+            },
+            {
+              "frame": 2.5,
+              "value": 79
+            },
+            {
+              "frame": 5,
+              "value": 20
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 5,
+          "value": 360
+        }
+      ]
+    }
+  },
+  "events": []
+}
